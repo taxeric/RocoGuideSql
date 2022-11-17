@@ -1,2 +1,6 @@
 # RocoGuideSql
 洛克王国指南数据库
+
+## 关于
+本数据库在一段时间内会持续更新,全部数据均来自网络,服务于[洛克王国服务端](https://github.com/taxeric/RocoGuideServe)项目.  
+更多详情请参见[RocoGuide](https://gitee.com/lanier/roco-guide)
