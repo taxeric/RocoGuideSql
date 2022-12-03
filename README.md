@@ -1,5 +1,6 @@
 # RocoGuideSql
 洛克王国指南数据库  
+**数据库更新在每月最后一天**
 
 最新SQL: [点击下载](https://github.com/taxeric/RocoGuideSql/blob/main/sqls/20221126.sql)
 
