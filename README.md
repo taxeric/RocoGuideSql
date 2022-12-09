@@ -1,6 +1,6 @@
 # RocoGuideSql
 洛克王国指南数据库。服务于[洛克王国服务端](https://github.com/taxeric/RocoGuideServe)项目。此外，您可以自己搭建服务端。  
-**数据库在每月最后一天更新**。
+**数据库不定期更新**。
 
 最新SQL: [点击下载](https://github.com/taxeric/RocoGuideSql/blob/main/sqls/20221126.sql)
 
