@@ -60,6 +60,24 @@
 </details>
 
 <details>
+<summary>系别表</summary>
+<ul>
+<li>名称</li>
+<ul>
+</details>
+
+<details>
+<summary>天气环境表</summary>
+<ul>
+<li>名称</li>
+<li>介绍</li>
+<li>效果</li>
+<li>类型</li>
+<li>图标链接</li>
+<ul>
+</details>
+
+<details>
 <summary>情报(新闻)表</summary>
 <ul>
 <li>标题</li>
