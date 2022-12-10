@@ -78,6 +78,15 @@
 </details>
 
 <details>
+<summary>异常状态表</summary>
+<ul>
+<li>名称</li>
+<li>效果(介绍)</li>
+<li>图标链接</li>
+<ul>
+</details>
+
+<details>
 <summary>情报(新闻)表</summary>
 <ul>
 <li>标题</li>
