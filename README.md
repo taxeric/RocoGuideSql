@@ -2,7 +2,7 @@
 洛克王国指南数据库。服务于[洛克王国服务端](https://github.com/taxeric/RocoGuideServe)项目。此外，您可以自己搭建服务端。  
 **数据库不定期更新**。
 
-最新SQL: [点击下载](https://github.com/taxeric/RocoGuideSql/releases/tag/v221210)
+最新SQL: [点击下载](https://github.com/taxeric/RocoGuideSql/releases/tag/v221217)
 
 ## 数据表 
 <details>
@@ -56,6 +56,15 @@
 <summary>组别表</summary>
 <ul>
 <li>名称</li>
+<ul>
+</details>
+
+<details>
+<summary>血脉表</summary>
+<ul>
+<li>名称</li>
+<li>介绍</li>
+<li>图标链接</li>
 <ul>
 </details>
 
