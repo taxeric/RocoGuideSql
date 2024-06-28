@@ -1,6 +1,11 @@
 # RocoGuideSql
+## 注意⚠️
+2024-06, 此数据库已被废弃, 参见新项目: [violet-database](https://github.com/taxeric/violet-database)
+
+以下为原始内容
+---
 洛克王国指南数据库。服务于[洛克王国服务端](https://github.com/taxeric/RocoGuideServe)项目。此外，您可以自己搭建服务端。  
-**数据库不定期更新**。
+**数据库已停止更新**。
 
 最新SQL: [点击下载](https://github.com/taxeric/RocoGuideSql/releases/tag/v221231)
 
